@@ -1,75 +1,24 @@
-<h1 align="center"><project-name></h1>
+# Belajar IOT Dengan Arduino
 
-<p align="center"><project-description></p>
+Halo teman-teman! 🌟
 
-## Links
+Saat ini saya sedang belajar tentang Internet of Things (IOT) dengan Arduino. Saya adalah seorang pemula yang selalu bersemangat untuk terus belajar dan mengembangkan diri. Projek ini sangat menarik dan saya sangat antusias untuk mempelajarinya lebih dalam. 🚀
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+Dibawah ini merupakan beberapa ide projek dengan arduino! 💡🔌
 
-- [Live](<Homepage url> "Live View")
+## List Projek yang Telah Dikerjakan:
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+1. **LED Blink**
+   - Projek pertama saya yang paling sederhana yang mengatur LED untuk berkedip secara periodik.
+2. **RFID Reader**
+   - Projek yang menggunakan RFID untuk membaca dan mengidentifikasi tag RFID. Dan arduino akan menyimpan UID dari kartu tag sebagai pengenal, dan dapat melakukan operasi AUTH (autentikasi).
+3. **Sensor Gerak Ultrasonik**
+   - Projek yang menggunakan sensor gerak ultrasonik untuk mendeteksi pergerakan benda di didepan nya, dan akan membunyikan suara ketika sudah berada dengan jarak tertentu yang sudah kita tentukan.
 
-- [API](<API Link> "API")
+## Projek mendatang
 
-## Screenshots
+1. **Door Lock dengan RFID**
 
-![Home Page](/screenshots/1.png "Home Page")
+   - Projek Door Lock dengan RFID bertujuan untuk mengamankan akses ke suatu ruangan atau objek dengan menggunakan teknologi RFID. Pada projek ini, pengguna akan memerlukan tag RFID yang valid untuk membuka kunci pintu. Hal ini dapat meningkatkan keamanan dan menghindari akses yang tidak diinginkan.
 
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
-
-## Available Commands
-
-In the project directory, you can run:
-
-### `npm start" : "react-scripts start"`,
-
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
-
-Launches the test runner in the interactive watch mode.
-
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
-
-## Built With
-
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
-
-## Future Updates
-
-- [ ] Reliable Storage
-
-## Author
-
-**Rohit Jain**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
-
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
+2. **Radar** - Projek radar dengan Arduino adalah projek yang menggunakan sensor ultrasonik untuk mendeteksi objek di sekitarnya. Sensor ultrasonik akan mengirimkan gelombang suara dan kemudian menerima pantulan gelombang tersebut. Dari pantulan tersebut, Arduino dapat menghitung jarak objek dari sensor. Informasi jarak ini dapat digunakan untuk berbagai aplikasi seperti sistem penghindaran tabrakan, pengukuran jarak, dan lain sebagainya.
