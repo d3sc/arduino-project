@@ -14,6 +14,8 @@ Dibawah ini merupakan beberapa ide projek dengan arduino! 💡🔌
    - Projek yang menggunakan RFID untuk membaca dan mengidentifikasi tag RFID. Dan arduino akan menyimpan UID dari kartu tag sebagai pengenal, dan dapat melakukan operasi AUTH (autentikasi).
 3. **Sensor Gerak Ultrasonik**
    - Projek yang menggunakan sensor gerak ultrasonik untuk mendeteksi pergerakan benda di didepan nya, dan akan membunyikan suara ketika sudah berada dengan jarak tertentu yang sudah kita tentukan.
+4. **Sensor Suara**
+   - Projek sensor suara dengan Arduino adalah projek yang menggunakan sensor suara untuk mendeteksi intensitas suara di sekitarnya. Arduino akan membaca data dari sensor suara dan dapat menyalakan/mematikan lampu dengan ditambahkan sedikti logika.
 
 ## Projek mendatang
 
