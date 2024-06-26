@@ -1,7 +1,6 @@
 const int trigPin = 12;
 const int echoPin = 11;
 const int buzzerPin = 2;
-const int ledPin = 4;
 
 float duration, distance;
 
@@ -25,17 +24,10 @@ void loop() {
   delay(100);
 
   if(distance <= 10 && distance > 5) {
-    delay(500);
     tone(buzzerPin,340);
-    digitalWrite(ledPin, HIGH);
-    delay(500);
-    noTone(buzzerPin);
-    digitalWrite(ledPin, LOW);
   } else if( distance <= 5) {
     tone(buzzerPin,440);
-    digitalWrite(ledPin, HIGH);
   } else {
     noTone(buzzerPin);
-    digitalWrite(ledPin, LOW);
   }
 }
