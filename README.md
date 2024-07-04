@@ -16,11 +16,11 @@ Dibawah ini merupakan beberapa ide projek dengan arduino! 💡🔌
    - Projek yang menggunakan sensor gerak ultrasonik untuk mendeteksi pergerakan benda di didepan nya, dan akan membunyikan suara ketika sudah berada dengan jarak tertentu yang sudah kita tentukan.
 4. **Sensor Suara**
    - Projek sensor suara dengan Arduino adalah projek yang menggunakan sensor suara untuk mendeteksi intensitas suara di sekitarnya. Arduino akan membaca data dari sensor suara dan dapat menyalakan/mematikan lampu dengan ditambahkan sedikti logika.
+5. **Door Lock dengan RFID**
+   - Projek Door Lock dengan RFID bertujuan untuk mengamankan akses ke suatu ruangan atau objek dengan menggunakan teknologi RFID. Pada projek ini, pengguna akan memerlukan tag RFID yang valid untuk membuka kunci pintu. Hal ini dapat meningkatkan keamanan dan menghindari akses yang tidak diinginkan.
+6. **Radar**
+    - Projek radar dengan Arduino adalah projek yang menggunakan sensor ultrasonik untuk mendeteksi objek di sekitarnya. Sensor ultrasonik akan mengirimkan gelombang suara dan kemudian menerima pantulan gelombang tersebut. Dari pantulan tersebut, Arduino dapat menghitung jarak objek dari sensor. Informasi jarak ini dapat digunakan untuk berbagai aplikasi seperti sistem penghindaran tabrakan, pengukuran jarak, dan lain sebagainya.
 
 ## Projek mendatang
 
-1. **Door Lock dengan RFID**
-
-   - Projek Door Lock dengan RFID bertujuan untuk mengamankan akses ke suatu ruangan atau objek dengan menggunakan teknologi RFID. Pada projek ini, pengguna akan memerlukan tag RFID yang valid untuk membuka kunci pintu. Hal ini dapat meningkatkan keamanan dan menghindari akses yang tidak diinginkan.
-
-2. **Radar** - Projek radar dengan Arduino adalah projek yang menggunakan sensor ultrasonik untuk mendeteksi objek di sekitarnya. Sensor ultrasonik akan mengirimkan gelombang suara dan kemudian menerima pantulan gelombang tersebut. Dari pantulan tersebut, Arduino dapat menghitung jarak objek dari sensor. Informasi jarak ini dapat digunakan untuk berbagai aplikasi seperti sistem penghindaran tabrakan, pengukuran jarak, dan lain sebagainya.
+   On Progress..
